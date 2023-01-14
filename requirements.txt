@@ -1,0 +1,6 @@
+openai
+AutoTokenizer
+transformers 
+datasets 
+load_dotenv
+streamlit 
