@@ -8,18 +8,18 @@
 4. Install dependencies: `pip install -r requirements.txt`
 
 - Classification use
-Used for classification of sentiment 
-`Datasets` will be used for fine-tuning `text-davinci-003` model 
-Finetuning of GPT-3 model https://beta.openai.com/docs/guides/fine-tuning
-Run application `streamlit run Classification/app.py`
+1. Used for classification of sentiment 
+2. `Datasets` will be used for fine-tuning `text-davinci-003` model
+3. Finetuning of GPT-3 model https://beta.openai.com/docs/guides/fine-tuning
+4. Run application `streamlit run Classification/app.py`
 
 - Summarization 
-Used for providing summaries of texts. Will be adapted for technical report generation below
-`Datasets` will be used for fine-tuning `text-davinci-003` and `text-babbage-001` models.
-Finetuning of GPT-3 model https://beta.openai.com/docs/guides/fine-tuning
-Run application `streamlit run Summarization/app.py`
+1. Used for providing summaries of texts. Will be adapted for technical report generation below
+2. `Datasets` will be used for fine-tuning `text-davinci-003` and `text-babbage-001` models.
+3. Finetuning of GPT-3 model https://beta.openai.com/docs/guides/fine-tuning
+4. Run application `streamlit run Summarization/app.py`
 
 - Report_generator 
-Custom report generation
+1. Custom report generation
 
 
