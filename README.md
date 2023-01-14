@@ -1,6 +1,6 @@
 # GPT-3 for Classification and Text Summarization
 - Installation
-1. Install virtualenv by running pip install virtualenv.
+1. Install virtualenv by running `pip install virtualenv`.
 2. Create a new virtual environment by running virtualenv venv. 
 3. Activate the virtual environment by running: 
       * `source venv/bin/activate` on Linux or macOS
