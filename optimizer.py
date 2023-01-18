@@ -29,6 +29,7 @@ if 1:
     n_epochs = 4
     #batch_size = 
     training_file   = training_file_id ###
+    
     #validation_file = validation_file_id ###
     #learning_rate_multiplier = None
     #prompt_loss_weight = 0.1
