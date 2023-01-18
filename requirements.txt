@@ -1,6 +1,2 @@
-openai
-AutoTokenizer
-transformers 
-datasets 
+openai 
 streamlit 
-virtualenv
