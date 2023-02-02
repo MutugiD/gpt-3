@@ -22,19 +22,9 @@
 
 - Fine-tuning 
 1. Synthetic data will be used for fine-tuning 
-
-   `python Finetuning/sync_finetune_data.py` for synching the pairs in prompts and completions 
-
-   `python Finetuning/finetune.py` for basic finetuning i.e. without hyperparameters 
-
+• `python Finetuning/sync_finetune_data.py` for synching the pairs in prompts and completions 
+• `python Finetuning/finetune.py` for basic finetuning i.e. without hyperparameters 
 2. Finetuning for cost, latency, epochs, and model performance - `python optimizer.py` 
-
 3. Approaches:  
-
-    Generic https://beta.openai.com/docs/guides/fine-tuning 
-
-    Embedding https://beta.openai.com/docs/guides/embeddings/what-are-embeddings
-     
-
-   
-
+• Generic https://beta.openai.com/docs/guides/fine-tuning 
+• Embedding https://beta.openai.com/docs/guides/embeddings/what-are-embeddings
