@@ -1,0 +1,6 @@
+Date: 01-05-2015
+Price: €26750
+Use: Virtual office
+Area: 1,000 square meters
+
+Output: 

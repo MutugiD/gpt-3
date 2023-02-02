@@ -1,0 +1,6 @@
+34eaf4ea-5b36-4d34-b8cd-875a24912cc1
+Extract the snippet of text containing the end April 3rd, 2011 , lease JPY 290000, designated Training and development center, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"This Lease (the "Lease") is made and entered into as of April 3rd, 2011, by and between JPY 290000 ("Lessor"), and Training and Development Center ("Lessee"), whereby Lessor leases to Lessee, and Lessee leases from Lessor, the premises located at 10,764 square feet (the "Premises")."

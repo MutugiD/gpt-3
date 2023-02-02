@@ -1,0 +1,6 @@
+49273424-1000-43f4-a01f-0c1547408706
+Extract the snippet of text containing the end 01-05-2015 , lease 6200, designated Virtual office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The lease shall commence on 01-01-2015 and end on 01-05-2015 for a total lease of 6200 for a designated Virtual office and leased space 1200 Sq M."

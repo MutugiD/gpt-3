@@ -1,0 +1,6 @@
+873e4a85-3c3f-4acf-b8f6-ea610e6a58d4
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Virtual office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement (the "Lease") is made and entered into as of April 3rd, 2011, by and between ABC Corporation ("Landlord") and XYZ Corporation ("Tenant"), for the lease of 6200 designated Virtual office and leased space 15700 Sq Ft, located at 123 Main Street, Anytown, Anystate, 12345"

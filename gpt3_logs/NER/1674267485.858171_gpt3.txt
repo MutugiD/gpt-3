@@ -1,0 +1,6 @@
+c2eee46d-08bb-4c45-9577-ea2067d63c58
+Extract the snippet of text containing the end April 3rd, 2011 , lease $4500000, designated Virtual office, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The tenant agrees to lease from the landlord the designated Virtual office and leased space, 10,764 square feet, located at 123 Main Street, Anytown, USA, for a period of five years commencing on April 3rd, 2011 and ending on April 3rd, 2016 for a total lease amount of $4500000."

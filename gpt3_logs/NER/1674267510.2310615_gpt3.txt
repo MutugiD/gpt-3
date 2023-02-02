@@ -1,0 +1,6 @@
+4eb74455-60d8-498e-a88e-1a2a987228af
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Corporate meetings, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall lease the space designated Corporate Meetings, 6200, and Leased Space, 15700 Sq Ft, from April 3rd, 2011 until the end of the Lease Term."

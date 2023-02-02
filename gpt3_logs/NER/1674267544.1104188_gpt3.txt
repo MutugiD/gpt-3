@@ -1,0 +1,6 @@
+4606c89d-e698-4c53-be61-cac4a42862b1
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Training and development center, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease from the Landlord the premises located at 6200 S. Main Street, Anytown, USA, designated as the Training and Development Center, consisting of approximately 10,764 square feet of leased space, for a term of five (5) years commencing on April 3rd, 2011 and ending on April 3rd, 2016."

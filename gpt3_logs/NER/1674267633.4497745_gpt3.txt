@@ -1,0 +1,6 @@
+e4a2bced-b14a-4143-b5f0-45b5ea72a841
+Extract the snippet of text containing the end April 3rd, 2011 , lease 26750, designated Virtual office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease from the Landlord, commencing on April 3rd, 2011, the Virtual Office and Leased Space located at 15700 Sq Ft in accordance with lease number 26750."

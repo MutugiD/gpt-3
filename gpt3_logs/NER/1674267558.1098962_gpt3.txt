@@ -1,0 +1,6 @@
+51e844e1-6605-47aa-9952-612335fbc534
+Extract the snippet of text containing the end April 3rd, 2011 , lease JPY 290000, designated Corporate meetings, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement (the “Agreement”) is made and entered into as of April 3rd, 2011 (the “Effective Date”) by and between [Landlord Name], a [Landlord State] corporation (“Landlord”) and [Tenant Name], a [Tenant State] corporation (“Tenant”), for the lease of the premises located at [Address] (the “Premises”), which consists of 10,764 square feet (the “Leased Space”) and is more particularly described in Exhibit A attached hereto and incorporated herein by this reference. Tenant shall lease the Leased Space from Landlord for a term of sixty (60) months (the “Lease Term”) at a base rent of JPY 290000 per month (the “Base Rent”)."

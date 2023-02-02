@@ -1,0 +1,6 @@
+a181e39f-0b5b-4658-b93c-20381e515aa2
+Extract the snippet of text containing the end April 3rd, 2011 , lease 26750, designated Co-working office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease the designated Co-working office, leased space 15700 Sq Ft, from the Landlord from the start date of April 3rd, 2011 to the end date of April 3rd, 2011, lease 26750."

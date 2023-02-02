@@ -1,0 +1,6 @@
+3e2d8021-abbc-4020-b2ca-bb5faf136a33
+Extract the snippet of text containing the end April 3rd, 2011 , lease 26750, designated Corporate meetings, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The lease for the Property located at 123 Main Street, Anytown, USA, with a lease ID of 26750 and designated for Corporate meetings, shall commence on April 1st, 2011 and shall end on April 3rd, 2011 and covers a leased space of 15700 Sq Ft."

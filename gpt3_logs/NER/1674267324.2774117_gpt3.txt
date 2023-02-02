@@ -1,0 +1,6 @@
+0f56a2e5-94fb-41d8-bd87-fa42377cd519
+Extract the snippet of text containing the end 01-05-2015 , lease 6200, designated Co-working office, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease from the Landlord, and the Landlord hereby leases to the Tenant, the designated Co-working office (the “Leased Space”) located in the Building, containing approximately 10,764 square feet of space (the “Premises”), for a term commencing on 01-01-2015 and ending on 01-05-2015 (the “Term”), at a monthly rental of Six Thousand Two Hundred Dollars ($6,200.00) (the “Base Rent”)."

@@ -1,0 +1,6 @@
+dcfb5fd1-c44a-4201-aa94-c330c7504a5d
+Extract the snippet of text containing the end June 30, 2015 , lease $4500000, designated Corporate meetings, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The lessee will lease the property at the address of 1234 Main Street, Anytown, USA, for a period of five years beginning on July 1, 2010 and ending on June 30, 2015, for a total lease amount of $4500000. The lessee shall use the leased space, which is 1200 Sq M, exclusively for corporate meetings."

@@ -1,0 +1,6 @@
+a272e7e6-0f9d-41d8-9f92-9b8525c02ccf
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Co-working office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement (the “Lease”) is made effective as of April 3rd, 2011, by and between 6200 Inc., a Delaware corporation (“Lessor”), and ABC Company (“Lessee”) for the leasing of a designated Co-working office and leased space of 1200 Sq M."

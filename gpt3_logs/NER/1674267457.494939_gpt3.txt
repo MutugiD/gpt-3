@@ -1,0 +1,6 @@
+3944c7ee-32c2-49c4-88c4-fc3b35625e87
+Extract the snippet of text containing the end April 3rd, 2011 , lease $4500000, designated Corporate meetings, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"This lease agreement (the "Lease") is made and effective as of April 3rd, 2011, by and between ABC Corporation ("Lessor"), and XYZ Corporation ("Lessee"), for the leasing of certain premises located at 123 Main Street, Anytown, USA ("Premises"), for a term of ten (10) years, at a total lease amount of Four Million Five Hundred Thousand Dollars ($4,500,000.00). The Lessee shall use the Premises for the purpose of designated Corporate meetings and leased space of 10,764 square feet."

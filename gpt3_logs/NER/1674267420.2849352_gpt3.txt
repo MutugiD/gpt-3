@@ -1,0 +1,6 @@
+555fac5b-7ee7-4132-a024-82c6b29ad13b
+Extract the snippet of text containing the end 01-05-2015 , lease 26750, designated Corporate meetings, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"This lease shall commence on 01-01-2015 and shall end on 01-05-2015, for a total lease of 26750 Sq Ft, designated for Corporate meetings and leased space of 15700 Sq Ft."

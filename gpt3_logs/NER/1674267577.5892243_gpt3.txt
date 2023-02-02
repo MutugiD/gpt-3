@@ -1,0 +1,6 @@
+be9990d9-3932-4572-96bb-7632e87138c9
+Extract the snippet of text containing the end April 3rd, 2011 , lease JPY 290000, designated Virtual office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The tenant shall lease the designated Virtual office and leased space of 1200 Sq M from the landlord, beginning April 3rd, 2011 and ending April 3rd, 2011, for a total lease amount of JPY 290000."

@@ -1,0 +1,6 @@
+f5d68c84-da8d-47a0-8d27-4d30cff74f03
+Extract the snippet of text containing the end 01-05-2015 , lease 26750, designated Co-working office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The lease shall commence on 01-01-2015 and end on 01-05-2015 for a total of 26750 Sq Ft of designated Co-working office and 15700 Sq Ft of leased space."

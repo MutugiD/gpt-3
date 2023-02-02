@@ -1,0 +1,6 @@
+64a5041a-1d7d-48b0-857e-501db5c96a93
+Extract the snippet of text containing the end 01-05-2015 , lease $4500000, designated Co-working office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"This agreement is effective from 01-01-2015 to 01-05-2015, and is for the lease of a co-working office space of 1200 Sq M for a total lease amount of $4500000."

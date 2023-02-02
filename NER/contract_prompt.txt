@@ -1,0 +1,2 @@
+<<UUID>>
+Extract the snippet of text containing the period <date> , lease <price>, designated <use>, and leased space <area> from the following statement in a legal contract:

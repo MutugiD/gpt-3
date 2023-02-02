@@ -68,4 +68,29 @@ rf.fit(X_train,y_train)
 plot_confusion_matrix(rf,X_test,y_test)
 
 
+import openai
+
+api_key = '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'
+
+# Define prompt and model
+prompt = 'Extract the snippet of text containing the end <date> , lease <price>, designated <use>, and leased space <area> from the following statement in a legal contract: 6.1 Both parties agree that, the lease term commences from July 1, 2012 and ends on June 30, 2015. The unit rent per square meter of construction area of the Premises per day is adjusted to RMB Four Point Two Zero (RMB4.20), adding up to an annual rental of RMB Eight Million Two Hundred Seventy Thousand Seven Hundred Forty Nine Point Six Two (RMB8,270,749.62), and agreed that the space can only be used for meetings only; \n\n-->\n\n'
+model = "text-davinci-003"
+
+# Make API request
+import openai
+openai.api_key = api_key
+response = openai.Completion.create(
+  engine=model,
+  prompt=prompt,
+  max_tokens=500,
+  n=1,
+  stop=None,
+  temperature=0.5,
+)
+
+# Print completion
+print(response["choices"][0]["text"])
+
+
+
 

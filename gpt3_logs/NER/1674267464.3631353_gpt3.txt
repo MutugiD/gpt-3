@@ -1,0 +1,6 @@
+0f890d56-ab16-462c-bc82-c8cbcbf5832b
+Extract the snippet of text containing the end April 3rd, 2011 , lease $4500000, designated Corporate meetings, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Tenant hereby leases from the Landlord, and the Landlord hereby leases to the Tenant, the Premises, together with the non-exclusive right to use the Common Areas, for a term beginning on April 3rd, 2011 and ending on April 3rd, 2021, at a base rent of $4500000 per annum, payable in equal monthly installments in advance on the first day of each month during the term hereof, for the purpose of conducting Corporate meetings and for the leased space of 15700 Sq Ft."

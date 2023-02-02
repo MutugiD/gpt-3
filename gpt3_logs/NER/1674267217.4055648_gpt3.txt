@@ -1,0 +1,6 @@
+cd759b35-2d05-486b-8d2c-f2c9122258f2
+Extract the snippet of text containing the end June 30, 2015 , lease JPY 290000, designated Training and development center, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall lease from the Lessor the designated Training and Development Center located at address ____, for the term beginning on April 1, 2015 and ending on June 30, 2015, for a total lease amount of JPY 290,000 and for a total leased space of 10,764 square feet."

@@ -1,0 +1,6 @@
+a8e57595-4855-40a7-896e-ca7fd5dbe0d5
+Extract the snippet of text containing the end June 30, 2015 , lease $4500000, designated Training and development center, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall lease the designated Training and Development Center with a total leased space of 1200 Sq M, for a period of 5 years commencing June 30, 2010 and ending June 30, 2015, for a total lease amount of $4500000."

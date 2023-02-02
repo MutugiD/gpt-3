@@ -1,0 +1,6 @@
+2f30e3d8-6f86-461e-a009-4bdd81f113da
+Extract the snippet of text containing the end 01-05-2015 , lease JPY 290000, designated Corporate meetings, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"This lease agreement is effective from 01-01-2015 to 01-05-2015, and is for the lease of JPY 290000 for designated Corporate meetings in leased space of 1,000 square meters."

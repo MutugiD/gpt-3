@@ -1,0 +1,6 @@
+34098b82-7782-4f79-8aa5-f57b93cbe3cc
+Extract the snippet of text containing the end June 30, 2015 , lease 6200, designated Virtual office, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The lease agreement between ABC Corporation and XYZ Company is effective from July 1, 2014 to June 30, 2015, lease 6200, designated Virtual office, and leased space 1,000 square meters."

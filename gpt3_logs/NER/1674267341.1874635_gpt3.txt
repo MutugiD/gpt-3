@@ -1,0 +1,6 @@
+abcdfa12-2902-4868-966b-593e36588e11
+Extract the snippet of text containing the end 01-05-2015 , lease 6200, designated Training and development center, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall pay the Lessor the sum of $6200 per month, commencing on 01-05-2015 for the use of the designated Training and Development Center and the leased space of 1,000 square meters."

@@ -1,0 +1,6 @@
+259e12e0-934d-4acd-9e82-9aad53cf5d57
+Extract the snippet of text containing the end 01-05-2015 , lease JPY 290000, designated Virtual office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement (the “Agreement”) is entered into as of 01-01-2015 by and between ABC Corporation (“Lessor”) and XYZ Corporation (“Lessee”) whereby Lessor agrees to lease to Lessee, and Lessee agrees to lease from Lessor, the premises located at 123 Main Street, Tokyo, Japan (the “Premises”) for a term beginning 01-01-2015 and ending 01-05-2015, and Lessee shall pay to Lessor a total sum of JPY 290000 (the “Rent”). The Premises shall include a designated virtual office and leased space of 15700 Sq Ft."

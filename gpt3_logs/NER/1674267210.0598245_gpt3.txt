@@ -1,0 +1,6 @@
+092a6a15-3bb7-4d56-9605-1079d2f5c69e
+Extract the snippet of text containing the end June 30, 2015 , lease JPY 290000, designated Training and development center, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall lease the designated Training and Development Center located at 1313 Mockingbird Lane, Tokyo, Japan, with a lease term ending June 30, 2015, for a total of JPY 290,000 per month, for a leased space of 1,000 square meters."

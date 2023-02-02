@@ -1,0 +1,6 @@
+8602ba48-cdce-474d-a898-6ce771ce958e
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Virtual office, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"This lease agreement (the “Lease”) is entered into effective April 3rd, 2011, by and between ABC Corporation (“Landlord”) and XYZ LLC (“Tenant”) for the lease of a virtual office (“Lease 6200”) and leased space of 1,000 square meters (the “Premises”)."

@@ -1,0 +1,6 @@
+87f62589-d16f-4830-838c-fc10008e2ed9
+Extract the snippet of text containing the end April 3rd, 2011 , lease JPY 290000, designated Training and development center, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall lease the Designated Training and Development Center located in Tokyo, Japan with an area of 1,000 square meters from the Lessor, commencing on April 3rd, 2011 and ending on April 3rd, 2021, for a total lease price of JPY 290000."

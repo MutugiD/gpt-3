@@ -1,0 +1,6 @@
+bb9a426f-037d-4b78-88bd-a8477276ecf1
+Extract the snippet of text containing the end June 30, 2015 , lease 26750, designated Training and development center, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall lease the premises designated Training and Development Center, located at 123 Main Street, Anytown, Anystate, and consisting of 15,700 square feet (“Leased Space”) for a term beginning July 1, 2012 and ending June 30, 2015 (“Lease Term”), and identified as Lease No. 26750."

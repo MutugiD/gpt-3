@@ -1,0 +1,6 @@
+a8442f73-bc62-48a1-a2de-f2c2824a8bcf
+Extract the snippet of text containing the end 01-05-2015 , lease 6200, designated Training and development center, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease the Leased Space, being 6200 square feet of space located at the Designated Training and Development Center, beginning on 01-01-2015 and ending on 01-05-2015, for a total of 10,764 square feet."

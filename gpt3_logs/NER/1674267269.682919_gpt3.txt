@@ -1,0 +1,6 @@
+ec594bb9-781b-42e1-9a4d-a62af7a3aeda
+Extract the snippet of text containing the end 01-05-2015 , lease $4500000, designated Corporate meetings, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The tenant shall pay the landlord a lease amount of $4500000 for the designated Corporate meetings and leased space of 1200 Sq M from 01-01-2015 to 01-05-2015."

@@ -1,0 +1,6 @@
+a52cabb9-817b-4014-8a7b-bbbb67eb6b8b
+Extract the snippet of text containing the end June 30, 2015 , lease $4500000, designated Virtual office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The tenant shall lease the designated Virtual office, and leased space 15700 Sq Ft from the landlord from June 1, 2015 to June 30, 2015, for a total lease amount of $4500000."

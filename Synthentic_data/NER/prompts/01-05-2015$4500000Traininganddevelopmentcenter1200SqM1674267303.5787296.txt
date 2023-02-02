@@ -1,0 +1,6 @@
+Date: 01-05-2015
+Price: $4500000
+Use: Training and development center
+Area: 1200 Sq M
+
+Output: 

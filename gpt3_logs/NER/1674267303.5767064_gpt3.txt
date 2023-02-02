@@ -1,0 +1,6 @@
+b011958c-0a34-46ae-8e6d-756772b8e752
+Extract the snippet of text containing the end 01-05-2015 , lease $4500000, designated Training and development center, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The lessee agrees to lease the premises, designated as a Training and Development Center, located at 123 Main Street, from 01-01-2015 to 01-05-2015, for the amount of $4500000 and a total leased space of 1200 Sq M."

@@ -1,0 +1,6 @@
+b185379a-6edc-49b4-a2b4-5f1ab6eee930
+Extract the snippet of text containing the end 01-05-2015 , lease 26750, designated Co-working office, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Lease commenced on 01-04-2014 and shall terminate on 01-05-2015 and covers a total leased space of 10,764 square feet of designated Co-working office space located at 26750 La Paz Road, Laguna Hills, CA 92653."

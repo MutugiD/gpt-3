@@ -1,0 +1,6 @@
+34a3f8e0-6275-44a0-9def-bba93246d23e
+Extract the snippet of text containing the end June 30, 2015 , lease $4500000, designated Corporate meetings, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The lessee shall lease the space from the lessor for a period of five years, beginning on July 1, 2010 and ending on June 30, 2015, for a total lease amount of $4500000. The leased space shall be used for designated Corporate meetings and shall measure approximately 1,000 square meters."

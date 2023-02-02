@@ -1,0 +1,6 @@
+45840230-a4b0-4f5d-af69-470e88dc630e
+Extract the snippet of text containing the end 01-05-2015 , lease 6200, designated Training and development center, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The tenant shall lease the space designated as Training and Development Center, located at 1234 Main Street, for a period of two years, commencing on 01-01-2015 and ending on 01-05-2015, for a total of 6200 per month and a total of 15700 Sq. Ft. of leased space."

@@ -1,0 +1,8 @@
+78c8a008-181f-4441-aed1-2aec5e95f68f
+Extract the snippet of text containing the end 01-05-2015 , lease JPY 290000, designated Training and development center, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement (hereinafter referred to as the “Lease”) is entered into and effective as of the 1st day of May, 2015, by and between ABC Corporation, a Japanese corporation (hereinafter referred to as the “Lessor”), and XYZ Corporation, a Japanese corporation (hereinafter referred to as the “Lessee”), for the lease of the premises located at 123 Main Street, Tokyo, Japan (hereinafter referred to as the “Premises”), designated as a Training and Development Center, and consisting of 10,764 square feet (hereinafter referred to as the “Leased Space”), for a lease term of three (3) years, with a monthly rental of JPY 290,000.00 (hereinafter referred to as the “Rent”)."
+
+"This Lease Agreement is entered into and effective as of the 1st day of May, 2015, by and between ABC Corporation and XYZ Corporation, for the lease of the premises located at 123 Main Street, Tokyo, Japan, designated as a Training and Development Center, and consisting of 10,764

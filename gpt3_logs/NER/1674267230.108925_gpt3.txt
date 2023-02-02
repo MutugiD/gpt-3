@@ -1,0 +1,6 @@
+59c63a44-b983-427f-aabc-41d6542c54e8
+Extract the snippet of text containing the end June 30, 2015 , lease 26750, designated Corporate meetings, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall pay to the Landlord the sum of $25,000.00 per month in rent, plus applicable taxes, in advance, on or before the first day of each month from the Commencement Date until the end of the Term, June 30, 2015, for the leased space 15700 Sq Ft designated for Corporate meetings, Lease # 26750."

@@ -1,0 +1,6 @@
+297cbe6e-c07c-4597-9fa0-d384df183f82
+Extract the snippet of text containing the end June 30, 2015 , lease 26750, designated Corporate meetings, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease from the Landlord the premises located at 1234 Main Street, Anytown, USA, and described as Lease 26750, designated Corporate meetings, and leased space 10,764 square feet, commencing on June 1, 2015 and ending on June 30, 2015."

@@ -1,0 +1,6 @@
+Date: 01-05-2015
+Price: JPY 290000
+Use: Training and development center
+Area: 15700 Sq Ft
+
+Output: 

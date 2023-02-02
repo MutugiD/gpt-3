@@ -1,0 +1,6 @@
+e2aafc64-bc88-4479-a033-3a6089fec25c
+Extract the snippet of text containing the end April 3rd, 2011 , lease $4500000, designated Corporate meetings, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The lessee shall commence the lease on April 1st, 2011 and end April 3rd, 2011, with a lease amount of $4500000, and shall use the leased space for Corporate meetings and other business activities, with a total leased space of 1,000 square meters."

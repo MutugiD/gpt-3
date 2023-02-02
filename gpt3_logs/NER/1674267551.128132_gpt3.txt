@@ -1,0 +1,6 @@
+0c65ad2f-9276-45e6-a30d-92f17083885d
+Extract the snippet of text containing the end April 3rd, 2011 , lease JPY 290000, designated Corporate meetings, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall lease the Premises at the rate of JPY 290000 per month, commencing on April 3rd, 2011 and ending on April 3rd, 2021, for the purpose of Corporate meetings, and the total leased space shall be 1,000 square meters."

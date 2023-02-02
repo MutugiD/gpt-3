@@ -1,0 +1,6 @@
+f4bf3343-0f7f-4347-b192-41a9a5a96126
+Extract the snippet of text containing the end June 30, 2015 , lease JPY 290000, designated Virtual office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The lease period shall commence on June 1, 2015 and end on June 30, 2015, with a lease amount of JPY 290000 for the designated Virtual office and leased space 1200 Sq M."

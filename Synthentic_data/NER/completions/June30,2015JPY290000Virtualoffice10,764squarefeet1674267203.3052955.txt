@@ -1,0 +1,10 @@
+"The Tenant shall lease the Designated Virtual Office and the Leased Space from the Landlord at the Rent and for the Term specified in the Basic Lease Information set forth below.
+
+Basic Lease Information:
+
+Lease Term: June 1, 2015 to June 30, 2015
+Rent: JPY 290000
+Designated Virtual Office: 
+Leased Space: 10,764 square feet"
+
+"The Tenant shall lease the Designated Virtual Office and the Leased Space from the Landlord at the Rent and for the Term specified in the Basic Lease Information set forth below: Lease Term: June 1, 2015 to June 30, 2015, Rent: JPY 290000, Designated Virtual Office, Leased Space: 10,764 square feet."

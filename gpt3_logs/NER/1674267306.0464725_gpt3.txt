@@ -1,0 +1,6 @@
+1417e685-38e6-453a-bc2c-b0b3a1a36d14
+Extract the snippet of text containing the end 01-05-2015 , lease $4500000, designated Training and development center, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"Tenant shall lease from Landlord the designated Training and Development Center, located at 123 Main Street, Anytown, USA, and consisting of 10,764 square feet of leased space, for a term commencing on 01-01-2015 and ending on 01-05-2015, for a total consideration of $4500000."

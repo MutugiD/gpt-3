@@ -1,0 +1,6 @@
+10712706-437f-4029-9849-eeb68f8221d2
+Extract the snippet of text containing the end April 3rd, 2011 , lease 26750, designated Training and development center, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The premises shall be leased from April 3rd, 2011 to April 2nd, 2014, and shall consist of Lease 26750, designated Training and Development Center, and leased space 15700 Sq Ft."

@@ -1,0 +1,6 @@
+81672016-1538-447f-8f81-6ffe17ab215e
+Extract the snippet of text containing the end 02/05/2018 , lease $4500000, designated Corporate meetings, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"This lease agreement is effective from 02/05/2018 and shall remain in effect until 02/05/2023. The Lessee shall pay the Lessor the sum of $4500000 for the leased space of 1,000 square meters designated for Corporate meetings."

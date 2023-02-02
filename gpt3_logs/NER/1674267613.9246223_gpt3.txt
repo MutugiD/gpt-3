@@ -1,0 +1,6 @@
+34013877-63c3-4093-b511-bdb98714c76b
+Extract the snippet of text containing the end April 3rd, 2011 , lease 26750, designated Co-working office, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement is made and entered into on April 3rd, 2011, by and between 26750, LLC, hereinafter referred to as "Lessor", and John Doe, hereinafter referred to as "Lessee", for the purpose of leasing the Co-working office, and leased space of 1,000 square meters located at 26750 Street, City, State, Zip Code."

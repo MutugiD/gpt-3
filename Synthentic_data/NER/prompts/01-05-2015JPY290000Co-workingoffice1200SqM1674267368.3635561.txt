@@ -1,0 +1,6 @@
+Date: 01-05-2015
+Price: JPY 290000
+Use: Co-working office
+Area: 1200 Sq M
+
+Output: 

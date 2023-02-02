@@ -1,0 +1,6 @@
+2cc9efb9-8e6e-4cfd-b858-9919597769c4
+Extract the snippet of text containing the end June 30, 2015 , lease $4500000, designated Co-working office, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease the designated Co-working office and leased space, consisting of 10,764 square feet, located at 123 Main Street, Anytown, USA, for a period ending June 30, 2015, for a total consideration of $4500000."

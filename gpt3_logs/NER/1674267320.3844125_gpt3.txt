@@ -1,0 +1,6 @@
+f32622ec-0e5b-4614-b799-22baf9bc18e0
+Extract the snippet of text containing the end 01-05-2015 , lease 6200, designated Co-working office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease the premises located at 6200 Main Street, designated as a Co-working office, and leased space of 1200 Sq M from the Landlord, from 01-01-2015 to 01-05-2015."

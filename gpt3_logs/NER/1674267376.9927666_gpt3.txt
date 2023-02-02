@@ -1,0 +1,6 @@
+3e1476c1-d2e7-4df6-9d1a-227fe4636f20
+Extract the snippet of text containing the end 01-05-2015 , lease JPY 290000, designated Co-working office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Tenant hereby leases from the Landlord the designated Co-working office, located at the premises and having an area of 15700 Sq Ft, on the terms and conditions set out in this Agreement, from 01-01-2015 to 01-05-2015, at a rental of JPY 290000 per month."

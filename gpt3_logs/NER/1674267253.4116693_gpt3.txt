@@ -1,0 +1,6 @@
+ba738ce3-a0e7-4d72-9f0c-83766b1f4b82
+Extract the snippet of text containing the end June 30, 2015 , lease 26750, designated Virtual office, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"The Lease shall commence on July 1, 2014 and shall end on June 30, 2015 (the “Lease Term”). The leased premises consists of two components: (i) a virtual office (Lease # 26750) and (ii) leased space consisting of 15,700 square feet."

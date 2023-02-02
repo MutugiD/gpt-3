@@ -1,0 +1,6 @@
+27c63bf0-e461-4c8c-899f-8d0fc65e86a8
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Co-working office, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"The Lessor hereby leases to the Lessee, beginning on April 3rd, 2011 and ending on April 3rd, 2021, lease 6200, designated Co-working office, and leased space 1,000 square meters."

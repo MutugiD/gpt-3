@@ -1,0 +1,6 @@
+499ca9ae-594e-4491-b8c1-f9b438f39c1c
+Extract the snippet of text containing the end April 3rd, 2011 , lease JPY 290000, designated Co-working office, and leased space 1,000 square meters from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement (the "Agreement") is made and entered into as of April 3rd, 2011 (the "Commencement Date") by and between JPY 290000 (the "Lessor") and Designated Co-working Office (the "Lessee"), whereby Lessor agrees to lease to Lessee, and Lessee agrees to lease from Lessor, the leased space of 1,000 square meters (the "Leased Space")."

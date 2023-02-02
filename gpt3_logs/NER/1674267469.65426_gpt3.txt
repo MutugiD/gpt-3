@@ -1,0 +1,6 @@
+55ad68fd-66ec-41be-8703-ed6afccc62fc
+Extract the snippet of text containing the end April 3rd, 2011 , lease $4500000, designated Co-working office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The tenant shall lease the designated co-working office located at 1200 Sq M from the landlord, beginning on April 3rd, 2011 and ending on April 3rd, 2021 for a total lease amount of $4500000."

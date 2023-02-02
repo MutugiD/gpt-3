@@ -1,0 +1,6 @@
+f6bb1221-8b76-47c3-bf78-66496558b9b1
+Extract the snippet of text containing the end April 3rd, 2011 , lease 26750, designated Co-working office, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant agrees to lease from the Landlord the designated Co-working office located at 123 Main Street, Anytown, USA, and leased space 10,764 square feet, commencing on April 3rd, 2011 and ending on April 3rd, 2021, Lease No. 26750."

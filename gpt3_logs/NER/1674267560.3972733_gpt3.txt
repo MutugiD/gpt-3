@@ -1,0 +1,6 @@
+78377639-8917-4005-9062-f3f8ccf3bacb
+Extract the snippet of text containing the end April 3rd, 2011 , lease JPY 290000, designated Corporate meetings, and leased space 15700 Sq Ft from the following statement in a legal contract:
+
+==========
+
+"This Lease Agreement (the “Lease”) is entered into as of April 3rd, 2011, by and between JPY 290000 (the “Lessor”) and the designated Corporate meetings (the “Lessee”) for the leased space of 15700 Sq Ft."

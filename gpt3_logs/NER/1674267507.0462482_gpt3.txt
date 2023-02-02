@@ -1,0 +1,6 @@
+394caedf-ee89-4ed7-afeb-b30a0a0cf648
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Corporate meetings, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease from the Landlord the premises located at 6200 Corporate Drive, Suite 10,764, commencing on April 3rd, 2011 and ending on April 3rd, 2021."

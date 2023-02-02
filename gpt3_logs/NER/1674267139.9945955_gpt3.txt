@@ -1,0 +1,6 @@
+6a5462ee-271d-4b32-900c-2bdc129e9a7a
+Extract the snippet of text containing the end June 30, 2015 , lease 6200, designated Co-working office, and leased space 1200 Sq M from the following statement in a legal contract:
+
+==========
+
+"The Lessee shall pay the Lessor the sum of $100,000.00 per annum, payable in advance on the first day of each month commencing on July 1, 2014 and ending June 30, 2015, for the lease of 6200, designated Co-working office, and leased space 1200 Sq M."

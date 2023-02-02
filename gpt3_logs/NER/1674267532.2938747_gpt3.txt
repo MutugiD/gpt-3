@@ -1,0 +1,6 @@
+1a07e38c-f79d-4859-a0e2-a8b7f3926f78
+Extract the snippet of text containing the end April 3rd, 2011 , lease 6200, designated Virtual office, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The tenancy commenced on April 3rd, 2011, with a lease of 6200, designated as a Virtual Office, and leased space of 10,764 square feet."

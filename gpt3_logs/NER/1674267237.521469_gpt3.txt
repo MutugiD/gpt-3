@@ -1,0 +1,6 @@
+edc196c9-aa20-4804-8c3e-16388df3157e
+Extract the snippet of text containing the end June 30, 2015 , lease 26750, designated Co-working office, and leased space 10,764 square feet from the following statement in a legal contract:
+
+==========
+
+"The Tenant shall lease from the Landlord, and the Landlord shall lease to the Tenant, the Leased Space described in Schedule A attached hereto, for the term commencing on July 1, 2014 and ending on June 30, 2015, for a total lease area of 10,764 square feet, designated as Co-working office, and identified as Lease 26750."
