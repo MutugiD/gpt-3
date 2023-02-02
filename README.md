@@ -1,4 +1,3 @@
-
 - Installation
 1. Create a new virtual environment by running `virtualenv venv`. 
 2. Activate the virtual environment by running: 
@@ -13,7 +12,6 @@
 - Summarization 
 1. Used for providing summaries of texts. For this sample, it is used for generating a downloadable report from demand letter instructions issued by a legal officer of a credit union.
 2. Run application `streamlit run Summarization/summarizer.py`
-3. Could be adopted for various custom uses (WIP)
 
 - Report_generator 
 1. Custom report generation
